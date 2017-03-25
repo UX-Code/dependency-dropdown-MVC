@@ -1,0 +1,14 @@
+body{
+  font-family: "Arial Narrow", Arial;
+}
+
+.container{
+  width: 100%;
+  max-width: 980px;
+  margin: auto;
+  position: relative;
+}
+
+select{
+  display: inline-grid;
+}
